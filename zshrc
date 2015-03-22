@@ -34,6 +34,8 @@ antigen bundles <<EOBUNDLES
 
         zsh-users/zsh-history-substring-search
 	unixorn/autoupdate-antigen.zshplugin
+        nojhan/liquidprompt
+
 
 
 

@@ -32,6 +32,11 @@ antigen bundles <<EOBUNDLES
 	# Syntax highlighting
 	zsh-users/zsh-syntax-highlighting
 
+        zsh-users/zsh-history-substring-search
+	unixorn/autoupdate-antigen.zshplugin
+
+
+
 EOBUNDLES
 
 antigen apply

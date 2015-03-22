@@ -49,3 +49,4 @@ antigen theme MaxUlysse/myzsh
 
 # ALIAS
 #source ~/.alias
+source ~/env/z/z.sh
